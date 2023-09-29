@@ -1,0 +1,11 @@
+body {
+    background-image: url(image/corea.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
+    height:90%;
+  }
+.container{
+    display: block;
+    position: center;
+  }
